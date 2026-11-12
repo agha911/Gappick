@@ -1,6 +1,6 @@
 # Gappick demo package
 
-Status: prepared for repeatable LOCAL runs. Publication is intentionally deferred.
+The public Gappick demo is available at https://vps-dbe51c93.vps.ovh.ca/ . This runbook describes LOCAL runs; use the visitor-isolated entry point for public hosting.
 The original interface is preserved. All accounts, points and actions belong to a dedicated demo database.
 
 ## Run with Docker Compose

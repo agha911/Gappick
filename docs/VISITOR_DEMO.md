@@ -1,6 +1,6 @@
-# Visitor-isolated demo candidate
+# Gappick visitor-isolated demo
 
-Prepared for hosting review; nothing is published by these files.
+Live demo: https://vps-dbe51c93.vps.ovh.ca/ . This document describes the visitor isolation design and local preview.
 The original Telegram interface is preserved. This is a separate entry point from
 `app.main` (Telegram) and `app.demo_site` (the earlier shared local playground).
 
