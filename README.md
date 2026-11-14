@@ -4,7 +4,7 @@ A Telegram Mini App with a React/TypeScript frontend and a FastAPI/PostgreSQL ba
 
 ## Live portfolio demo
 
-**[Play Gappick](https://vps-dbe51c93.vps.ovh.ca/)** · **[Source code](https://github.com/agha911/Gappick)**
+**[Play Gappick](https://vps-dbe51c93.vps.ovh.ca/gappick)** · **[Source code](https://github.com/agha911/Gappick)**
 
 A playable browser demonstration of the original game interface: click to earn virtual points, manage energy, claim daily rewards, buy upgrades and try challenge PvP. Built with **Python, FastAPI, PostgreSQL, React and TypeScript**.
 

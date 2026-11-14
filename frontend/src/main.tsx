@@ -29,7 +29,7 @@ async function start() {
   <React.StrictMode>
     {isDemo && <DemoNotice />}
     <div className={isDemo ? 'demo-original' : undefined}>
-    <BrowserRouter>
+    <BrowserRouter basename={/^\/gappick(?:\/|$)/.test(window.location.pathname) ? '/gappick' : undefined}>
       <Routes>
         {/* вместо прямого MainScreen — ставим редирект-обертку */}
         <Route path="/" element={<StartParamRedirect />} />
